@@ -1,0 +1,147 @@
+Order_Priority,Order_Quantity,Sales,Ship_Mode,Profit,Customer_Name,Region,Customer_Segment,Product_Category,Product_Sub-Category,Product_Container,Target
+High,49,165.51,Regular Air,-269.91,Carlos Soltero,Atlantic,Consumer,Office Supplies,Binders and Binder Accessories,Small Box,0
+Low,4,40.72,Express Air,-10.25,Chad Cunningham,Northwest Territories,Small Business,Office Supplies,Paper,Small Box,0
+Critical,29,5159.3725,Express Air,1252.48,Cathy Armstrong,Atlantic,Consumer,Technology,Telephones and Communication,Small Box,1
+Low,44,246.0,Regular Air,-207.36,Mark Cousins,West,Corporate,Office Supplies,Paper,Small Box,0
+Not Specified,3,46.46,Regular Air,-25.13,Craig Carroll,Ontario,Corporate,Office Supplies,Appliances,Medium Box,0
+Low,6,17.0,Regular Air,-4.61,Greg Guthrie,Atlantic,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,0
+Medium,24,492.71,Regular Air,67.01,Theone Pippenger,Prarie,Corporate,Office Supplies,Paper,Small Box,1
+High,46,7807.45,Express Air,1660.15,Christina DeMoss,West,Home Office,Office Supplies,Storage & Organization,Small Box,1
+Not Specified,46,265.88,Regular Air,-90.9,Ken Heidel,West,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,0
+Critical,10,155.45,Regular Air,-19.68,Logan Haushalter,Prarie,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,0
+Critical,20,234.09,Express Air,-11.69,Justin Knight,West,Corporate,Furniture,Office Furnishings,Small Box,0
+Low,25,2407.693,Regular Air,424.14,Hilary Holden,Atlantic,Corporate,Technology,Telephones and Communication,Small Box,1
+Medium,43,7452.137,Regular Air,2028.36,Art Ferguson,Atlantic,Corporate,Technology,Telephones and Communication,Small Box,1
+Not Specified,9,58.98,Regular Air,-17.79,Joseph Airdo,Ontario,Consumer,Office Supplies,Binders and Binder Accessories,Small Box,0
+Low,38,23255.61,Regular Air,-734.33,Jack Lebron,Atlantic,Corporate,Technology,Copiers and Fax,Large Box,0
+High,46,410.43,Regular Air,-54.58,Logan Haushalter,Atlantic,Corporate,Technology,Office Machines,Medium Box,0
+Low,23,631.99,Regular Air,-43.96,Julie Creighton,West,Corporate,Technology,Computer Peripherals,Small Box,0
+Medium,39,796.08,Regular Air,30.29,Shirley Schmidt,Ontario,Corporate,Technology,Computer Peripherals,Small Box,1
+Low,28,128.69,Regular Air,28.29,Sarah Bern,West,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,1
+Not Specified,29,185.61,Regular Air,-47.12,Justin Knight,West,Corporate,Office Supplies,Paper,Small Box,0
+Critical,4,30.85,Regular Air,-12.88,Kristina Nunn,West,Consumer,Office Supplies,Paper,Small Box,0
+Not Specified,20,1163.123,Regular Air,83.84,Frank Price,Northwest Territories,Corporate,Technology,Telephones and Communication,Small Box,1
+Medium,34,937.04,Regular Air,391.6,Jack Lebron,Atlantic,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,1
+Not Specified,24,73.37,Regular Air,16.1,Liz Price,West,Corporate,Office Supplies,Labels,Small Box,1
+Not Specified,4,63.52,Express Air,-8.47,Carl Ludwig,Northwest Territories,Corporate,Office Supplies,Storage & Organization,Small Box,0
+Not Specified,20,129.16,Regular Air,-56.15,Sarah Bern,West,Corporate,Office Supplies,Paper,Small Box,0
+High,1,305.82,Regular Air,-232.24,Jack Lebron,Atlantic,Corporate,Office Supplies,Storage & Organization,Large Box,0
+High,43,6583.913,Regular Air,1459.79,Eugene Barchas,Northwest Territories,Corporate,Technology,Telephones and Communication,Small Box,1
+Low,28,370.48,Regular Air,-5.45,Carlos Soltero,Nunavut,Consumer,Office Supplies,Storage & Organization,Small Box,0
+Low,31,16066.85,Regular Air,7416.43,Rick Reed,Northwest Territories,Consumer,Technology,Office Machines,Large Box,1
+Critical,14,633.08,Express Air,145.48,Sally Knutson,West,Corporate,Office Supplies,Appliances,Small Box,1
+Critical,48,274.38,Regular Air,-94.82,Lela Donovan,West,Corporate,Office Supplies,Paper,Small Box,0
+High,23,1314.64,Express Air,575.38,Nathan Cano,West,Consumer,Office Supplies,Paper,Small Box,1
+High,22,905.08,Regular Air,127.7,Carl Jackson,Nunavut,Corporate,Office Supplies,Storage & Organization,Small Box,1
+Medium,21,2024.0285,Regular Air,4.9,Thomas Brumley,West,Consumer,Technology,Telephones and Communication,Small Box,1
+Medium,47,2799.7,Regular Air,884.08,Sylvia Foulston,Northwest Territories,Corporate,Office Supplies,Appliances,Small Box,1
+Not Specified,17,2475.08,Express Air,958.8,Luke Weiss,West,Corporate,Furniture,Office Furnishings,Large Box,1
+High,8,1042.25,Regular Air,195.16,Matt Collins,West,Consumer,Office Supplies,Appliances,Small Box,1
+Low,15,834.904,Regular Air,-11.68,Jim Radford,Nunavut,Corporate,Technology,Telephones and Communication,Small Box,0
+Critical,33,1817.9,Regular Air,700.31,Dana Kaydos,Prarie,Corporate,Office Supplies,Paper,Small Box,1
+High,25,342.85,Regular Air,-32.42,Joy Smith,Prarie,Consumer,Technology,Office Machines,Medium Box,0
+Medium,10,550.61,Express Air,98.32,Claudia Miner,Northwest Territories,Small Business,Office Supplies,Paper,Small Box,1
+Not Specified,17,224.09,Regular Air,-27.92,Rob Haberlin,West,Consumer,Office Supplies,Storage & Organization,Medium Box,0
+High,40,196.5,Regular Air,-99.76,Erica Bern,Atlantic,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,0
+Not Specified,36,317.59,Regular Air,-46.12,Craig Carroll,Ontario,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,0
+High,15,76.94,Express Air,29.67,Bruce Stewart,Prarie,Corporate,Office Supplies,Labels,Small Box,1
+Critical,24,1326.51,Regular Air,58.17,Sean Wendt,West,Corporate,Technology,Telephones and Communication,Small Box,1
+Critical,8,52.39,Regular Air,-17.38,Doug Bickford,Northwest Territories,Corporate,Furniture,Office Furnishings,Small Box,0
+Low,46,7441.29,Regular Air,2665.4,Erica Bern,Atlantic,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,1
+Low,18,925.03,Regular Air,-3.68,Jack Lebron,Atlantic,Corporate,Technology,Computer Peripherals,Small Box,0
+Critical,15,85.56,Regular Air,-41.58,Bill Donatelli,Ontario,Corporate,Office Supplies,Paper,Small Box,0
+High,15,19417.55,Regular Air,8417.57,Jamie Kunitz,Northwest Territories,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,1
+Critical,32,4906.85,Regular Air,1907.94,Sean Wendt,West,Corporate,Office Supplies,Envelopes,Small Box,1
+Not Specified,1,17.89,Express Air,10.51,Mike Pelletier,Northwest Territories,Corporate,Office Supplies,Labels,Small Box,1
+Low,36,1646.05,Regular Air,649.8,Joy Smith,West,Consumer,Office Supplies,Paper,Small Box,1
+Low,25,978.77,Regular Air,220.91,John Castell,Atlantic,Consumer,Office Supplies,Paper,Small Box,1
+Not Specified,20,660.27,Express Air,63.83,Fred Wasserman,Northwest Territories,Home Office,Office Supplies,Storage & Organization,Small Box,1
+Critical,17,1368.14,Express Air,171.26,Fred Wasserman,Northwest Territories,Home Office,Office Supplies,Appliances,Large Box,1
+Low,15,687.52,Regular Air,223.76,Sonia Sunley,West,Corporate,Office Supplies,Paper,Small Box,1
+Medium,42,152.55,Regular Air,-20.27,Erica Bern,Atlantic,Corporate,Office Supplies,Envelopes,Small Box,0
+Low,23,1223.3795,Express Air,83.57,Liz Price,West,Corporate,Technology,Telephones and Communication,Small Box,1
+Critical,18,360.24,Express Air,-36.24,Patrick O'Brill,Atlantic,Home Office,Technology,Computer Peripherals,Small Box,0
+Low,31,1252.89,Regular Air,339.75,Justin Knight,West,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,1
+Critical,45,2404.599,Express Air,496.89,Barbara Fisher,West,Small Business,Technology,Telephones and Communication,Small Box,1
+Not Specified,24,1452.48,Express Air,376.52,Hallie Redmond,Prarie,Small Business,Furniture,Office Furnishings,Medium Box,1
+Low,17,55.45,Regular Air,21.42,Erica Bern,Atlantic,Corporate,Office Supplies,Labels,Small Box,1
+High,24,4636.62,Regular Air,-318.45,Sally Knutson,West,Consumer,Furniture,Tables,Large Box,0
+Critical,32,563.08,Regular Air,112.97,Sean Wendt,Atlantic,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,1
+High,15,593.73,Regular Air,108.01,Ann Chong,Northwest Territories,Corporate,Office Supplies,Paper,Small Box,1
+High,22,1132.54,Regular Air,-628.38,Jim Sink,Prarie,Corporate,Office Supplies,Storage & Organization,Large Box,0
+High,2,68.66,Regular Air,-29.6,Ken Heidel,West,Corporate,Office Supplies,Paper,Small Box,0
+Critical,2,34.88,Regular Air,-22.12,Carlos Soltero,Atlantic,Consumer,Furniture,Office Furnishings,Small Box,0
+High,14,2232.06,Regular Air,542.16,Ralph Arnett,Northwest Territories,Consumer,Office Supplies,Storage & Organization,Small Box,1
+High,5,66.43,Regular Air,-9.45,Hilary Holden,Atlantic,Corporate,Furniture,Office Furnishings,Large Box,0
+Low,45,2354.8,Regular Air,332.97,Roy Skaria,West,Corporate,Technology,Computer Peripherals,Small Box,1
+High,29,1669.88,Regular Air,548.92,John Grady,Atlantic,Corporate,Office Supplies,Paper,Small Box,1
+Not Specified,45,132.31,Regular Air,10.91,Sally Knutson,West,Consumer,Office Supplies,Binders and Binder Accessories,Small Box,1
+Critical,21,4242.76,Regular Air,340.88,Hilary Holden,Atlantic,Corporate,Technology,Copiers and Fax,Large Box,1
+Medium,22,446.72,Regular Air,-39.0,Lela Donovan,West,Corporate,Furniture,Office Furnishings,Small Box,0
+Medium,33,112.36,Regular Air,-159.74,Steve Carroll,Prarie,Consumer,Office Supplies,Binders and Binder Accessories,Small Box,0
+Critical,16,72.08,Regular Air,-54.75,Lisa DeCherney,West,Corporate,Office Supplies,Paper,Small Box,0
+Low,1,195.04,Regular Air,-149.41,Sally Knutson,Atlantic,Corporate,Office Supplies,Storage & Organization,Large Box,0
+Low,46,590.43,Regular Air,82.59,Joy Smith,Atlantic,Consumer,Office Supplies,Binders and Binder Accessories,Small Box,1
+Critical,12,22079.47,Regular Air,5322.14,Sylvia Foulston,Northwest Territories,Corporate,Technology,Office Machines,Medium Box,1
+Low,42,173.44,Regular Air,-172.4,Sally Knutson,West,Consumer,Furniture,Office Furnishings,Small Box,0
+Low,28,967.27,Regular Air,309.31,Theone Pippenger,Atlantic,Corporate,Office Supplies,Paper,Small Box,1
+Low,9,6420.87,Regular Air,-690.21,Hilary Holden,Atlantic,Corporate,Technology,Copiers and Fax,Large Box,0
+Not Specified,28,2752.0,Express Air,336.47,Chad Sievert,West,Corporate,Technology,Computer Peripherals,Small Box,1
+Critical,5,2019.65,Regular Air,289.88,John Castell,West,Consumer,Office Supplies,Binders and Binder Accessories,Small Box,1
+Low,38,952.47,Regular Air,270.69,Jack Lebron,Atlantic,Corporate,Technology,Office Machines,Medium Box,1
+High,16,92.06,Regular Air,5.66,Carlos Soltero,Atlantic,Consumer,Office Supplies,Envelopes,Small Box,1
+High,4,14.23,Regular Air,-4.43,Doug Bickford,Atlantic,Corporate,Furniture,Office Furnishings,Small Box,0
+High,41,270.84,Express Air,-78.02,Beth Paige,Northwest Territories,Consumer,Office Supplies,Paper,Small Box,0
+Critical,48,6109.817,Regular Air,1374.95,Sylvia Foulston,Northwest Territories,Corporate,Technology,Telephones and Communication,Small Box,1
+High,4,41.53,Regular Air,-15.53,Ken Lonsdale,Ontario,Consumer,Office Supplies,Binders and Binder Accessories,Small Box,0
+Low,30,387.0,Express Air,-31.45,Carlos Daly,Northwest Territories,Home Office,Office Supplies,Storage & Organization,Small Box,0
+Low,42,1146.11,Regular Air,330.63,Jack Lebron,Atlantic,Corporate,Furniture,Office Furnishings,Small Box,1
+Critical,13,438.93,Express Air,-119.02,Doug Bickford,Northwest Territories,Corporate,Technology,Computer Peripherals,Small Box,0
+Critical,27,78.47,Regular Air,17.99,Clay Rozendal,Northwest Territories,Corporate,Office Supplies,Labels,Small Box,1
+High,14,2145.6975,Regular Air,-176.79,Shahid Shariari,West,Corporate,Technology,Telephones and Communication,Small Box,0
+High,24,1482.81,Regular Air,-678.63,Jack Lebron,Atlantic,Corporate,Office Supplies,Appliances,Large Box,0
+High,15,73.41,Regular Air,-44.79,Giulietta Weimer,Atlantic,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,0
+Medium,44,176.26,Regular Air,75.13,Alan Barnes,Northwest Territories,Corporate,Office Supplies,Labels,Small Box,1
+Critical,45,882.96,Regular Air,11.65,Bill Donatelli,Ontario,Corporate,Technology,Computer Peripherals,Small Box,1
+Not Specified,30,5015.051,Regular Air,1090.43,Brad Norvell,Atlantic,Corporate,Technology,Telephones and Communication,Small Box,1
+High,49,465.83,Regular Air,-79.72,Beth Thompson,Northwest Territories,Corporate,Furniture,Office Furnishings,Small Box,0
+Critical,42,642.1,Regular Air,41.56,Maria Bertelson,Ontario,Corporate,Technology,Office Machines,Medium Box,1
+Medium,34,2788.04,Regular Air,-849.18,Sarah Jordon,Atlantic,Consumer,Office Supplies,Storage & Organization,Large Box,0
+High,18,3780.43,Regular Air,905.57,Guy Armstrong,Prarie,Corporate,Office Supplies,Storage & Organization,Small Box,1
+Critical,19,281.84,Regular Air,-21.85,Dorothy Wardle,Northwest Territories,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,0
+Critical,20,2634.8555,Regular Air,257.76,Giulietta Weimer,West,Corporate,Technology,Telephones and Communication,Small Box,1
+Medium,7,1120.27,Regular Air,16.81,Joy Smith,West,Consumer,Technology,Office Machines,Medium Box,1
+Not Specified,20,1583.06,Regular Air,328.0,Don Jones,Northwest Territories,Corporate,Office Supplies,Appliances,Medium Box,1
+Critical,8,50.7,Regular Air,-44.07,Sylvia Foulston,Northwest Territories,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,0
+Not Specified,38,3701.5205,Regular Air,894.06,Katrina Bavinger,Prarie,Consumer,Technology,Telephones and Communication,Small Box,1
+High,43,683.46,Regular Air,-138.82,Sylvia Foulston,Northwest Territories,Corporate,Office Supplies,Envelopes,Small Box,0
+Medium,42,1811.3,Express Air,520.41,Sarah Foster,West,Corporate,Office Supplies,Appliances,Small Box,1
+Critical,37,443.35,Regular Air,-21.73,Kristina Nunn,West,Consumer,Office Supplies,Appliances,Small Box,0
+Low,48,8101.9875,Regular Air,2369.84,Rob Haberlin,West,Corporate,Technology,Telephones and Communication,Small Box,1
+Medium,18,986.24,Express Air,68.9,Neil Knudson,West,Corporate,Technology,Computer Peripherals,Small Box,1
+Low,15,1062.959,Express Air,298.48,Beth Paige,Northwest Territories,Consumer,Technology,Telephones and Communication,Small Box,1
+Not Specified,2,24.96,Regular Air,-12.8,Grant Carroll,Northwest Territories,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,0
+Low,16,817.18,Regular Air,103.38,Becky Castell,Northwest Territories,Consumer,Office Supplies,Storage & Organization,Small Box,1
+Critical,43,1281.28,Regular Air,415.85,Julia Dunbar,Prarie,Consumer,Office Supplies,Binders and Binder Accessories,Small Box,1
+Medium,4,38.76,Express Air,-12.13,Sarah Bern,Atlantic,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,0
+High,36,228.01,Regular Air,-185.54,Roy Skaria,West,Corporate,Office Supplies,Paper,Small Box,0
+High,46,648.26,Regular Air,30.48,Logan Haushalter,Atlantic,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,1
+Not Specified,26,258.11,Express Air,9.95,Justin Hirsh,Atlantic,Consumer,Office Supplies,Paper,Small Box,1
+Not Specified,26,1382.31,Regular Air,372.26,Monica Federle,West,Corporate,Furniture,Office Furnishings,Small Box,1
+High,44,1642.642,Express Air,314.84,Ken Lonsdale,Prarie,Consumer,Technology,Telephones and Communication,Small Box,1
+High,6,34.88,Regular Air,-18.34,Justin Knight,West,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,0
+High,46,2640.6865,Express Air,751.38,Frank Atkinson,Atlantic,Corporate,Technology,Telephones and Communication,Small Box,1
+Low,26,188.05,Express Air,-21.41,Dan Reichenbach,Atlantic,Corporate,Office Supplies,Paper,Small Box,0
+Low,34,2833.19,Express Air,1409.87,Vicky Freymann,West,Home Office,Office Supplies,Envelopes,Small Box,1
+Low,5,503.3275,Regular Air,-488.31,Jim Radford,Northwest Territories,Corporate,Technology,Telephones and Communication,Small Box,0
+Medium,25,174.03,Regular Air,-42.37,Justin Hirsh,West,Consumer,Office Supplies,Paper,Small Box,0
+Not Specified,46,2332.23,Express Air,1085.93,Matt Abelman,West,Home Office,Office Supplies,Paper,Small Box,1
+Medium,22,482.37,Regular Air,34.03,Sarah Foster,West,Corporate,Technology,Computer Peripherals,Small Box,1
+Low,26,390.2,Express Air,45.0,Anthony O'Donnell,West,Consumer,Furniture,Office Furnishings,Small Box,1
+Medium,30,4305.79,Regular Air,1020.32,Rob Dowd,West,Corporate,Office Supplies,Storage & Organization,Small Box,1
+Medium,14,1170.025,Regular Air,4.22,Ralph Knight,Northwest Territories,Consumer,Technology,Telephones and Communication,Small Box,1
+High,41,4256.51,Regular Air,1653.96,Bruce Stewart,Prarie,Corporate,Technology,Computer Peripherals,Small Box,1
+Medium,40,434.62,Regular Air,-68.98,Joy Smith,Atlantic,Corporate,Office Supplies,Binders and Binder Accessories,Small Box,0
+Not Specified,29,701.94,Regular Air,158.91,Bobby Odegard,Ontario,Corporate,Technology,Office Machines,Medium Box,1
+Medium,35,1445.6,Regular Air,126.03,Dan Reichenbach,Atlantic,Corporate,Furniture,Office Furnishings,Medium Box,1
+Critical,11,336.91,Regular Air,42.5,Ralph Kennedy,West,Corporate,Office Supplies,Paper,Small Box,1
